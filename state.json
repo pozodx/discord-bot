@@ -1,0 +1,16 @@
+{
+  "repChannelId": null,
+  "repCount": 22,
+  "channelIntervals": {
+    "1493007083963154483": [
+      1000,
+      10000
+    ]
+  },
+  "channelRepIntervals": {
+    "1493007083963154483": [
+      1000,
+      10000
+    ]
+  }
+}
